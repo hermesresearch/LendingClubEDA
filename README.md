@@ -70,6 +70,34 @@ Increase in Charge Off for Borrowers Receiving a Lower Counter Offer than Reques
 
 
 ## Conclusions
+The study analyzed the pre-loan information of the dataset, ignoring the post-loan information as it is not relevant to the lender's decision-making process. The overall risk was found to be 14%. The goal was to identify the major factors affecting the loan outcome.
+
+Loan Repayment: The majority of fully paid loans were more than 80%, while loans with more than 10% charge off were less frequent.
+
+Loan Grades: The largest volume of loans belonged to grades B, A, and C. However, grades F and G had the highest default rate of 32% and 29%, respectively.
+
+Home Ownership: Borrowers who rent showed the highest charge-off rate, while those who own their homes had the lowest. Borrowers still paying for their homes through mortgage had higher charge-off rates and higher debt-to-income ratios.
+
+Loan Purpose: The highest probability of loan default was observed for debt consolidation and credit card payoff loans.
+
+Charge-off Rate: The majority of charge-off rates were between 0.11 and 0.16. Borrowers with lower interest rates tended to fully repay their loans.
+
+Employment Length: A charge-off rate of 15% was observed for borrowers with employment length over 10 years.
+
+Loan Amount: A strong relationship was observed between the loan amount requested and the approved loan amount. Borrowers who received a lower amount than what they requested showed a spike in the charge-off rate
+
+# Recomindations:
+Based on the findings of the study, the following recommendations are proposed:
+
+Raise the interest rate for loans with purposes of debt consolidation and credit card payoff.
+
+Decrease the amount of loan funded by 30% for borrowers with grades F and G and their subclasses.
+
+Lower the interest rate for borrowers with grades A, B, and C.
+
+Set the highest interest rate for borrowers with unverified income.
+
+Decrease the interest rate for home owners with fully paid homes and raise it for home renters.
 
 
 
